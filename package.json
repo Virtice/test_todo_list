@@ -1,0 +1,25 @@
+{
+  "name": "todolist.test.nodejs.neurocity",
+  "version": "0.1.0",
+  "description": "test",
+  "main": "./app/conponents/server/server.js",
+  "scripts": {
+    "test": "./app/conponents/server/server.js && echo 'Test config run...'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Virtice/test_todo_list.git"
+  },
+  "keywords": [
+    "test",
+    "nodejs",
+    "todo",
+    "list"
+  ],
+  "author": "Angolin Ruslan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Virtice/test_todo_list/issues"
+  },
+  "homepage": "https://github.com/Virtice/test_todo_list#readme"
+}
