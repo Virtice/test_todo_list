@@ -4,7 +4,7 @@
   "description": "test",
   "main": "./app/conponents/server/server.js",
   "scripts": {
-    "test": "./app/conponents/server/server.js && echo 'Test config run...'"
+    "start": "./app/conponents/server/server.js"
   },
   "repository": {
     "type": "git",
